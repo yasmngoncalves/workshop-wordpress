@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-labelledby="title">
+  <title id="title">Imagem abstrata de loja artesanal</title>
+  <rect width="1200" height="680" fill="#23342f"/>
+  <rect x="78" y="72" width="1044" height="536" rx="28" fill="#f4eee2"/>
+  <rect x="132" y="126" width="316" height="428" rx="16" fill="#d98b68"/>
+  <rect x="492" y="126" width="576" height="108" rx="14" fill="#243c5a"/>
+  <rect x="492" y="272" width="250" height="282" rx="16" fill="#c9d4b0"/>
+  <rect x="778" y="272" width="290" height="282" rx="16" fill="#8c5f4d"/>
+  <circle cx="290" cy="340" r="92" fill="#f4eee2"/>
+  <circle cx="890" cy="414" r="76" fill="#f4eee2"/>
+  <path d="M154 520c96-118 192-118 288 0" fill="none" stroke="#23342f" stroke-width="18" stroke-linecap="round"/>
+</svg>
