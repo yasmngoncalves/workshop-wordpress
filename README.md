@@ -44,9 +44,6 @@ Você precisa ter o WordPress instalado. Se ainda não tem, siga o tutorial abai
 > <!-- Adicione aqui o link do tutorial de instalação -->
 > `[ link será adicionado aqui ]`
 
-Recomendo usar o **LocalWP** para rodar o WordPress no seu computador sem precisar de hospedagem:
-> 🔗 [Baixar LocalWP](https://localwp.com)
-
 ---
 
 ### 2. Baixando os arquivos
