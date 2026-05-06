@@ -50,7 +50,7 @@ Você precisa ter o WordPress instalado. Se ainda não tem, siga o tutorial abai
 
 **Opção A — Clonar o repositório (recomendado):**
 ```bash
-git clone https://github.com/seu-usuario/workshop-wordpress-etec.git
+git clone https://github.com/yasmngoncalves/workshop-wordpress.git
 ```
 
 **Opção B — Download manual:**
@@ -110,7 +110,7 @@ git clone https://github.com/seu-usuario/workshop-wordpress-etec.git
 [LinkedIn](https://linkedin.com/in/yasmngoncalves)
 [YouTube](https://youtube.com/@yasmndev)
 [Instagram](https://instagram.com/yasmndev)
-[Instagram](https://instagram.com/yasmndev)
+[TikTok](https://www.tiktok.com/@yasmndev)
 
 ---
 
